@@ -31,4 +31,11 @@ todos os arquivos que forem criados serão armazenados nesse repositorio
     Análise de tarefas - Decomposição das tarefas que os usuários precisam realizar no sistema em etapas menores,ajudando a identificar as funcionalidades e informações necessárias em cada etapa,garantindo que o sistema suporte o fluxo de trabalho do usuário."problema         grande em problemas menores". MUITO BOM USAR.
     Heurísticas de usabilidade - Princípios gerais de design de interface que ajudam a garantir que o sistema seja facil de usar,aprender e lembrar,como consistência,feedback claro e controle do usuário. MUITO BOM USAR.
     Testes de usabilidade - Avaliação da facilidade de uso do sistema por meio de observação e coleta de feedback de usuários reais,identificando problemas e oportunidades de melhoria para aprimorar a experiência do usuário.
-  
+
+  Relação entre Levantamento de Requisitos e Arquitetura da Informação
+    -Requisitos como base para AI
+    -Ai como ferramentas para validar requisitos
+    -Ai como facilitadora da comunicação
+    -Iteração entre requisitos e AI
+
+
