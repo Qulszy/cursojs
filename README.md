@@ -33,9 +33,9 @@ todos os arquivos que forem criados serão armazenados nesse repositorio
     Testes de usabilidade - Avaliação da facilidade de uso do sistema por meio de observação e coleta de feedback de usuários reais,identificando problemas e oportunidades de melhoria para aprimorar a experiência do usuário.
 
   Relação entre Levantamento de Requisitos e Arquitetura da Informação
-    -Requisitos como base para AI
-    -Ai como ferramentas para validar requisitos
-    -Ai como facilitadora da comunicação
-    -Iteração entre requisitos e AI
+      -Requisitos como base para AI
+      -Ai como ferramentas para validar requisitos
+      -Ai como facilitadora da comunicação
+      -Iteração entre requisitos e AI
 
 
