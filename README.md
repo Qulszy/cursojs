@@ -38,4 +38,8 @@ todos os arquivos que forem criados serão armazenados nesse repositorio
       -Ai como facilitadora da comunicação
       -Iteração entre requisitos e AI
 
+## dia 4
+  faltei
 
+
+## dia 5
