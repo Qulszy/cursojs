@@ -69,9 +69,21 @@ todos os arquivos que forem criados serão armazenados nesse repositorio
         consistencia,familiaridade,eficiencia,acessibilidade,entre outros(faltei)
       Usabilidade: facilidade do uso das telas(intuitivas,"simples",...)
         clareza,tolerancia a erros,flexibilidade,entre outros(faltei)
-      
-      
 
+
+
+##dia 6
+  projeto
+  cliente-musico
+  compositor-cantor sertanejo
+  faz show com feat
+  "sertanejo raiz" porem faz outros estilos tambem "sertanejo universitario" por exemplo 
+  mostrar seu trabalho para os outros
+  promover shows e se conectar com os fãns mostrando musicas
+  maxuel
+  sem produtos
+  violão,viola,baixo,percução,carrom
+  
 
 
 
