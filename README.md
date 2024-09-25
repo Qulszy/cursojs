@@ -73,16 +73,16 @@ todos os arquivos que forem criados serão armazenados nesse repositorio
 
 
 ##dia 6
-  projeto
-  cliente-musico
-  compositor-cantor sertanejo
-  faz show com feat
-  "sertanejo raiz" porem faz outros estilos tambem "sertanejo universitario" por exemplo 
-  mostrar seu trabalho para os outros
-  promover shows e se conectar com os fãns mostrando musicas
-  maxuel
-  sem produtos
-  violão,viola,baixo,percução,carrom
+      projeto
+      cliente-musico
+      compositor-cantor sertanejo
+      faz show com feat
+      "sertanejo raiz" porem faz outros estilos tambem "sertanejo universitario" por exemplo 
+      mostrar seu trabalho para os outros
+      promover shows e se conectar com os fãns mostrando musicas
+      maxuel
+      sem produtos
+      violão,viola,baixo,percução,carrom
   
 
 
