@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Meu site</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header>
+        <h1>Meu site!</h1>
+        <nav>
+            <a id="botao-inicio" href="#inicio">Inicio</a>
+            <a id="botao-quem-somos" href="#quem-somos">Quem somos</a>
+            <a id="botao-contato" href="#contato">Contato</a>
+            <!-- a = anchor | link ou âncora -->
+        </nav>
+    </header>
+    <section id="inicio"></section>
+    <section id="quem-somos"></section>
+    <section id="contato"></section>
+
+    <script type="text/javascript">
+        const meuBotaoInicio = document.getElementById('botao-inicio');
+        const meuBotaoQuemSomos = document.getElementById('botao-quem-somos');
+        const meuBotaoContato = document.querySelector('#botao-contato');
+
+        meuBotaoInicio.addEventListener('click', function() {
+            meuBotaoInicio.classList.toggle('ativo');
+        });
+        meuBotaoQuemSomos.addEventListener('click', function() {
+            meuBotaoQuemSomos.classList.toggle('ativo');
+        });
+        meuBotaoContato.addEventListener('click', function() {
+            meuBotaoContato.classList.toggle('ativo');
+        });
+
+    </script>
+</body>
+</html>
