@@ -1,20 +1,12 @@
-window.onload = dados;
+const readline = require('readline-sync');
+lista = []
 
-function dados(){
-    let formulario = document.getElementById('form');
-    formulario.onsubmit = leitura;
+for (let i = 0; i < 3; i++){
+    nome = readline.question()
+    nome.toLowerCase();
+    lista.unshift(nome);  
 }
-
-function leitura(){
-    let senha,codigo,formulario;
-    formulario = document.getElementById('form');
-    senha = formulario.elements.item(0).value;
-    codigo = 'batata';
-    if (senha == codigo){
-        alert('senha correta');
-    }else{
-        alert('senha incorreta')
-    }
-
-}
+console.log(lista)
+const filtro = lista => lista.startsWith('y');
+console.log(lista.filter(filtro))
 
